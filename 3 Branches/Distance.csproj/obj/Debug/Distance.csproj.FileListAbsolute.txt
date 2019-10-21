@@ -1,0 +1,9 @@
+C:\Users\Даниил\Downloads\Distance.csproj\bin\Debug\Distance.exe.config
+C:\Users\Даниил\Downloads\Distance.csproj\bin\Debug\Distance.exe
+C:\Users\Даниил\Downloads\Distance.csproj\bin\Debug\Distance.pdb
+C:\Users\Даниил\Downloads\Distance.csproj\bin\Debug\TestingRoom.dll
+C:\Users\Даниил\Downloads\Distance.csproj\obj\Debug\Distance.csprojAssemblyReference.cache
+C:\Users\Даниил\Downloads\Distance.csproj\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Downloads\Distance.csproj\obj\Debug\Distance.csproj.CopyComplete
+C:\Users\Даниил\Downloads\Distance.csproj\obj\Debug\Distance.exe
+C:\Users\Даниил\Downloads\Distance.csproj\obj\Debug\Distance.pdb
