@@ -1,0 +1,6 @@
+C:\Users\Даниил\RiderProjects\ArraysKontest\ArraysKontest\bin\Debug\ArraysKontest.exe
+C:\Users\Даниил\RiderProjects\ArraysKontest\ArraysKontest\bin\Debug\ArraysKontest.pdb
+C:\Users\Даниил\RiderProjects\ArraysKontest\ArraysKontest\obj\Debug\ArraysKontest.csprojAssemblyReference.cache
+C:\Users\Даниил\RiderProjects\ArraysKontest\ArraysKontest\obj\Debug\ArraysKontest.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\RiderProjects\ArraysKontest\ArraysKontest\obj\Debug\ArraysKontest.exe
+C:\Users\Даниил\RiderProjects\ArraysKontest\ArraysKontest\obj\Debug\ArraysKontest.pdb
