@@ -9,3 +9,14 @@ C:\Users\Даниил\Downloads\учебное програмирование\Ko
 C:\Users\Даниил\Downloads\учебное програмирование\Kontur C# project\5 Arrays\Names.csproj\obj\Debug\Names.csproj.CopyComplete
 C:\Users\Даниил\Downloads\учебное програмирование\Kontur C# project\5 Arrays\Names.csproj\obj\Debug\Names.exe
 C:\Users\Даниил\Downloads\учебное програмирование\Kontur C# project\5 Arrays\Names.csproj\obj\Debug\Names.pdb
+C:\Users\Даниил\Google Диск\Kontur C# project\5 Arrays\Names.csproj\bin\Debug\names.txt
+C:\Users\Даниил\Google Диск\Kontur C# project\5 Arrays\Names.csproj\bin\Debug\Names.exe.config
+C:\Users\Даниил\Google Диск\Kontur C# project\5 Arrays\Names.csproj\bin\Debug\Names.exe
+C:\Users\Даниил\Google Диск\Kontur C# project\5 Arrays\Names.csproj\bin\Debug\Names.pdb
+C:\Users\Даниил\Google Диск\Kontur C# project\5 Arrays\Names.csproj\bin\Debug\ZedGraph.dll
+C:\Users\Даниил\Google Диск\Kontur C# project\5 Arrays\Names.csproj\bin\Debug\ZedGraph.xml
+C:\Users\Даниил\Google Диск\Kontur C# project\5 Arrays\Names.csproj\obj\Debug\Names.csprojAssemblyReference.cache
+C:\Users\Даниил\Google Диск\Kontur C# project\5 Arrays\Names.csproj\obj\Debug\Names.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Google Диск\Kontur C# project\5 Arrays\Names.csproj\obj\Debug\Names.csproj.CopyComplete
+C:\Users\Даниил\Google Диск\Kontur C# project\5 Arrays\Names.csproj\obj\Debug\Names.exe
+C:\Users\Даниил\Google Диск\Kontur C# project\5 Arrays\Names.csproj\obj\Debug\Names.pdb
